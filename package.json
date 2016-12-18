@@ -1,0 +1,27 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "a web application useing express framwork in node.js env",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiletrace/treehouse_express.git"
+  },
+  "keywords": [
+    "express",
+    "whiletrace"
+  ],
+  "author": "Trace Harris traceh@whiletrace.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiletrace/treehouse_express/issues"
+  },
+  "homepage": "https://github.com/whiletrace/treehouse_express#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
